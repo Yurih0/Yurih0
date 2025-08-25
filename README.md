@@ -1,4 +1,6 @@
 ## Olá, prazer, me chamo Yuri
+
+## Sobre mim
 Sou Yuri, estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend. Apaixonado por tecnologia com propósito. Acredito que soluções digitais devem ser inclusivas, sustentáveis e acessíveis.
 Construo minha jornada com curiosidade, ética e colaboração — sempre buscando transformar ideias em impacto real.
 

@@ -66,6 +66,7 @@ Atualmente em busca do meu primeiro estágio na área de análise de dados.
 📜 Kaggle — Python, Pandas e SQL *(em andamento)*
 📜 Python para Análise de Dados — Data Science Academy *(em andamento)*
 📜 Microsoft Power BI PL-300 *(em andamento)*
+📜 Google Data Analytics Certificate *(em andamento)*
 
 ---
 

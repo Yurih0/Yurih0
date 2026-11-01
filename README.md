@@ -1,4 +1,4 @@
-# Olá, eu sou o Yuri Gabriel 👋
+# Olá, eu sou o Yuri Gabriel 
 
 ### Estudante de ADS | Análise de Dados | SQL • Python • Power BI • Excel
 
@@ -7,7 +7,7 @@ Atualmente em busca do meu primeiro estágio na área de análise de dados.
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+##  Ferramentas & Tecnologias
 
 **Linguagens e Consultas**
 
@@ -41,9 +41,9 @@ Atualmente em busca do meu primeiro estágio na área de análise de dados.
 
 ---
 
-## 📊 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🔍 Análise Exploratória de Dados com Python
+###  Análise Exploratória de Dados com Python
 > Análise de dataset público com foco em identificar padrões, tendências e insights de negócio
 > por meio de limpeza, tratamento e visualização de dados.
 >
@@ -51,7 +51,7 @@ Atualmente em busca do meu primeiro estágio na área de análise de dados.
 
 ---
 
-### 📈 Dashboard de Indicadores com SQL e Power BI
+###  Dashboard de Indicadores com SQL e Power BI
 > Criação de banco de dados relacional com dados públicos, queries para responder perguntas
 > de negócio e dashboard interativo com KPIs e filtros dinâmicos.
 >
@@ -59,9 +59,9 @@ Atualmente em busca do meu primeiro estágio na área de análise de dados.
 
 ---
 
-## 📚 Formação & Certificações
+##  Formação & Certificações
 
-🎓 **Análise e Desenvolvimento de Sistemas** — Cruzeiro do Sul Educacional *(em andamento)*
+ **Análise e Desenvolvimento de Sistemas** — Cruzeiro do Sul Educacional *(em andamento)*
 
 📜 Kaggle — Python, Pandas e SQL *(em andamento)*
 📜 Python para Análise de Dados — Data Science Academy *(em andamento)*
@@ -70,7 +70,7 @@ Atualmente em busca do meu primeiro estágio na área de análise de dados.
 
 ---
 
-## 📬 Onde me encontrar
+##  Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuri-gabriel-santiago-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurig0811@gmail.com)
